@@ -2,13 +2,22 @@
 % Grace and Reagan
 % December 7, 2016
 
-# What are we going to learn? Why is it cool?
+# An ever-changing world of technology 
 
-Technology impacts our brain and behavior
+![](http://43fpn31oms1v1lgbl61vq2vx.wpengine.netdna-cdn.com/wp-content/uploads/2015/10/In-A-World-of-Technology.jpg)
 
 <aside class="notes">
-Every top level markdown header in this file will be translated into a "section" in your HTML5 output. This output will be plain, using only the base reveal.js style. The command above, mutatis mutandis, will let you do the conversion.
+In today's modern society, the technological advances are never-ending. We have advanced from a strictly pen and paper univers to  dial-up internet and stationary desktop computers to having a small internet connected device in our pockets. In this world of constantly changing technology, the possibilities are endless. 
 </aside>
+
+# How has technology impacted us?
+
+![](http://business-technology.co.uk/wp-content/uploads/2013/12/BYO.jpg)
+
+<aside class="notes">
+With all of the technological advances that have made its way into our society, we are evolving to match the new abilities technology has given us. In an age where the internet is easily accessible, we are now able to quickly research and find information by doing a simple google search. The internet has also made it easier to connect with people and has made it possible 
+
+
 
 # How tech impacts the way we think and act (pt 1)
 
