@@ -38,41 +38,80 @@ Reveal is very powerful, so try exploring some of its features, but be careful n
 # How tech impacts the way we think and act (pt 3)
 
 <aside class="notes">
-Once you get used to using reveal, you might actually enjoy the fact that all you have to do is write. No more messy GUI hiding your text from you. No more buttons and drop-downs and the temptation to use too many effects. You now have a very powerful tool in your hands for creating presentations that can be shown in any web browser, anywhere. If you keep your work in GitHub or somewhere similar, you can also easily share your finished presentations. 
+
 </aside>
 
-# Companies that create apps and devices design them to be addictive (pt 1)
+
+# Designed to distract
 
 <aside class="notes">
-Once you get used to using reveal, you might actually enjoy the fact that all you have to do is write. No more messy GUI hiding your text from you. No more buttons and drop-downs and the temptation to use too many effects. You now have a very powerful tool in your hands for creating presentations that can be shown in any web browser, anywhere. If you keep your work in GitHub or somewhere similar, you can also easily share your finished presentations. 
+Tech companies have incentive to exploit our psychological vulnerabilities. Social media companies
+profit from disrupting us over and over again throughout the day. 
 </aside>
 
-# Example 1 for how tech is designed to be addictive
+
+# Your Time Spent = $ for Tech Companies
 
 <aside class="notes">
-Once you get used to using reveal, you might actually enjoy the fact that all you have to do is write. No more messy GUI hiding your text from you. No more buttons and drop-downs and the temptation to use too many effects. You now have a very powerful tool in your hands for creating presentations that can be shown in any web browser, anywhere. If you keep your work in GitHub or somewhere similar, you can also easily share your finished presentations. 
+Increasing users' time spent on site increases profits for the company. 
 </aside>
 
-# Example 2 for how tech is designed to be addictive
+
+# Like a slot machine in your pocket
+
+![Slot machine](http://www.casinonewsdaily.com/wp-content/uploads/guides/illustrations/slots/types/multipliers.jpg)
 
 <aside class="notes">
-Once you get used to using reveal, you might actually enjoy the fact that all you have to do is write. No more messy GUI hiding your text from you. No more buttons and drop-downs and the temptation to use too many effects. You now have a very powerful tool in your hands for creating presentations that can be shown in any web browser, anywhere. If you keep your work in GitHub or somewhere similar, you can also easily share your finished presentations. 
+Intermittent variable rewards keep coming back. For example, pulling down in the apple email 
+app to refresh, checking to see if your post got likes, or scrolling down on any social media
+site looking for that next great distraction. 
 </aside>
 
-# Possible solution: design to empower people
+
+# Instant Interruptions
 
 <aside class="notes">
-Once you get used to using reveal, you might actually enjoy the fact that all you have to do is write. No more messy GUI hiding your text from you. No more buttons and drop-downs and the temptation to use too many effects. You now have a very powerful tool in your hands for creating presentations that can be shown in any web browser, anywhere. If you keep your work in GitHub or somewhere similar, you can also easily share your finished presentations. 
+It takes the average person 23 minutes to resume focus after an interruption. And 
+a bunch of external interruptions in one hour leads to more self-interruptions in the next
+hour. 
 </aside>
 
-# Example of how tech could be designed better
+# A Bottomless Bowl
+
+![Netflix automatic play](http://media.idownloadblog.com/wp-content/uploads/2016/05/Netflix-Post-Play-screenshot-001.jpg)
 
 <aside class="notes">
-Once you get used to using reveal, you might actually enjoy the fact that all you have to do is write. No more messy GUI hiding your text from you. No more buttons and drop-downs and the temptation to use too many effects. You now have a very powerful tool in your hands for creating presentations that can be shown in any web browser, anywhere. If you keep your work in GitHub or somewhere similar, you can also easily share your finished presentations. 
+Bottomless bowls, infinite scroll feeds, and automatic play keep people consuming even
+when they are no longer hungry. Netflix automatically plays the next episode. Your twitter feed
+never runs out.
 </aside>
 
-# Take-away / follow-up action for audience
+# Empower the user
 
 <aside class="notes">
-Once you get used to using reveal, you might actually enjoy the fact that all you have to do is write. No more messy GUI hiding your text from you. No more buttons and drop-downs and the temptation to use too many effects. You now have a very powerful tool in your hands for creating presentations that can be shown in any web browser, anywhere. If you keep your work in GitHub or somewhere similar, you can also easily share your finished presentations. 
+Users tend to blame themselves for lack of self-control and being easily distracted by media.
+But humans have never before experienced this level of intentional distraction. 
 </aside>
+
+
+# What if technology was on our team?
+
+<aside class="notes">
+What if technology was on our team? What if it aligned with our values and helped us live
+the way we want to? Tech design could replace impulse with conscious choices and put the 
+user back in control. 
+</aside>
+
+
+# timewellspent.io
+
+<aside class="notes">
+"Time Well Spent is a movement to align technology with our humanity." The movement proposes
+a digital bill of rights that outlines design standards to protect users' time and attention.
+Join the Time Well Spent movement and learn how to gain more control over how media
+shapes your attention.
+</aside>
+
+
+
+
