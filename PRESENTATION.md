@@ -2,6 +2,18 @@
 % Grace and Reagan
 % December 7, 2016
 
+# Why do design ethics matter?
+
+<aside class="notes">
+Hi I'm Grace.
+And I'm Reagan.
+We're going to tell you about the impact of technology on our brain and behavior, 
+and then talk about how tech could be designed better. 
+
+Design ethics in technology matter because we use techonology for work, for leisure, and for connecting with people.
+The menus in front of us shape our choices and actions. Notifications shape the way we spend our time. 
+</aside>
+
 # An ever-changing world of technology 
 
 ![](http://43fpn31oms1v1lgbl61vq2vx.wpengine.netdna-cdn.com/wp-content/uploads/2015/10/In-A-World-of-Technology.jpg)
@@ -129,13 +141,6 @@ knowing they are not missing anything urgent.
 "Time Well Spent is a movement to align technology with our humanity." The movement proposes
 a digital bill of rights that outlines design standards to protect users' time and attention.
 Visit the website for tips to gain more control over how media shapes your attention.
-</aside>
-
-
-# Think
-
-<aside class="notes">
-Above all, we urge you to think critically about your time spent with technology.  
 </aside>
 
 
