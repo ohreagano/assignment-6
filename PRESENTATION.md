@@ -57,31 +57,6 @@ The advancement of technology and the rise of popularity of search engines, like
 </aside>
 
 
-
-
-# How tech impacts the way we think and act (pt 1)
-
-More text will go here
-
-<aside class="notes">
-To add audio, you have to add the data-audio-src attribute and specify a path to the associated audio file in your HTML file, as shown on the screen. Using this technique, you should only add the audio after you have written your presentation in the form of the file that we converted to make this presentation. That input file uses markdown with embedded "aside" tags with notes as the class. 
-</aside>
-
-# How tech impacts the way we think and act (pt 2)
-
-Or an image
-
-<aside class="notes">
-Reveal is very powerful, so try exploring some of its features, but be careful not to make any changes that you can't roll back. In other words, make a change, use git to add, commit, and push. Then test. If you don't like the change, you can always roll it back. If you do this, then you will be able to fix things easily if you break something by reverting your last commit. If you are testing locally, you don't have to push your changes. Just commit them. You will still be able to roll them back using the git revert command.
-<\aside>
-
-# How tech impacts the way we think and act (pt 3)
-
-<aside class="notes">
-
-</aside>
-
-
 # Your Time Spent = $ for Tech Companies
 
 <aside class="notes">
