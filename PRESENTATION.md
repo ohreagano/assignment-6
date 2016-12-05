@@ -1,6 +1,6 @@
 % Distraction Engineering and Design Ethics
 % Grace and Reagan
-% December 7, 2016
+% December 5, 2016
 
 # Why do design ethics matter?
 
