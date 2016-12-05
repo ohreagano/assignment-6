@@ -69,12 +69,12 @@ interruptions every day.
 </aside>
 
 
-# 2. Like a slot machine in your pocket
+# 2. A Slot Machine in Your Pocket
 
 ![ ](https://cdn-images-1.medium.com/max/800/1*BNOfmUQ2nTRVPVe0CHx7ew.png)
 
 <aside class="notes">
-Intermittent variable rewards keep coming back. For example, pulling down in the apple email 
+Intermittent variable rewards keep users coming back. For example, pulling down in the apple email 
 app to refresh, checking to see if your post got likes, or scrolling down on any social media
 site looking for that next great distraction. 
 </aside>
