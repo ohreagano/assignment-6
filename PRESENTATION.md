@@ -2,17 +2,6 @@
 % Grace and Reagan
 % December 5, 2016
 
-# Why do design ethics matter?
-
-<aside class="notes">
-Hi I'm Grace.
-And I'm Reagan.
-We're going to tell you about the impact of technology on our brain and behavior, 
-and then talk about how tech could be designed better. 
-
-Design ethics in technology matter because we use techonology for work, for leisure, and for connecting with people.
-The menus in front of us shape our choices and actions. Notifications shape the way we spend our time. 
-</aside>
 
 # An ever-changing world of technology 
 
